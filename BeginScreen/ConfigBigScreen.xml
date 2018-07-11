@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<main>
+  <currentPage>1</currentPage>
+  <!--是否隐藏姓名 空不隐藏-->
+  <PatientName>*</PatientName>
+  <!--结束显示时间-->
+  <OpeTime>5</OpeTime>
+</main>

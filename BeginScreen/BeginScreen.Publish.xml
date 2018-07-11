@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\BACK\发布系统" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/11/2018 12:01:11" />
+    <file relUrl="bin/ConfigBigScreen.xml" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="js/bootstrap.min.js" publishTime="10/23/2017 17:10:41" />
+    <file relUrl="Handler1.ashx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="ConfigNoticeXML.xml" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="BeginScreen.Publish.xml" publishTime="07/11/2018 12:01:11" />
+    <file relUrl="js/bootstrap-table.js" publishTime="10/23/2017 17:10:41" />
+    <file relUrl="test1.aspx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="bin/BeginScreen.pdb" publishTime="07/11/2018 12:01:27" />
+    <file relUrl="D.aspx" publishTime="03/15/2018 09:32:13" />
+    <file relUrl="js/bootstrap-datepicker.zh-CN.js" publishTime="10/23/2017 17:10:41" />
+    <file relUrl="bin/BeginScreen.dll" publishTime="07/11/2018 12:01:27" />
+    <file relUrl="test.aspx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="OpeRoomPlanNotice.aspx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="SchedulingPlan.aspx" publishTime="04/19/2018 10:18:30" />
+    <file relUrl="RelationsWaitingAreaBigScreenHandler.ashx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="js/jquery.js" publishTime="10/23/2017 17:10:41" />
+    <file relUrl="js/jquery.min.js" publishTime="01/16/2018 15:35:01" />
+    <file relUrl="ConfigBigScreen.xml" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="OpeRoomPlanNoticeHandler.ashx" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="bin/ConfigNoticeXML.xml" publishTime="03/13/2018 15:54:42" />
+    <file relUrl="js/bootstrap-datetimepicker.js" publishTime="10/23/2017 17:10:41" />
+    <file relUrl="js/jquery.vticker-min.js" publishTime="01/16/2018 17:14:49" />
+    <file relUrl="js/bootstrap.js" publishTime="10/23/2017 17:10:41" />
+  </publishProfile>
+</publishData>

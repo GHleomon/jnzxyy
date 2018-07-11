@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<main>
+  <!--是否隐藏姓名 空不隐藏-->
+  <PatientName>*</PatientName>
+  <!--结束显示时间-->
+  <OpeTime>5</OpeTime>
+  <!--字休-->
+  <fontFamily>楷体</fontFamily>
+  <!--字休大小-->&gt;
+  <fontSize>30</fontSize><!--每页显示的记录数--><pageSum>10</pageSum><!--工作区当前记录数--><WorkerCurrentPage>13</WorkerCurrentPage><!--窗体背景着色--><bodyBgColor>#000000</bodyBgColor><!--标题背景着色--><titleBgColor>#62D377</titleBgColor><!--标题列背景色--><titleColBgColor>#2D9131</titleColBgColor><!--底部背景着色--><bottomBgColor>#2D9131</bottomBgColor><!--内容奇数行背景着色--><rowOddBgColor>#000000</rowOddBgColor><!--内容偶数行背景着色--><rowEvenBgColor>#000000</rowEvenBgColor><!--术前着色--><opeBeforColor>yellow</opeBeforColor><!--术中着色--><opeInColor>red</opeInColor><!--术后着色--><opeAfterColor>#09FF20</opeAfterColor><!--默认字体着色--><defaultColor>#ffffff</defaultColor></main>
